@@ -1,4 +1,4 @@
-# fast-api-sports-classifier
+### FastAPI Web App
 
 - to run the FastAPI web app:
 1) navigate to directory in anaconda prompt
